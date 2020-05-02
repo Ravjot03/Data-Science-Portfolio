@@ -11,14 +11,14 @@ This repository contains machine learning and data visualizations repositories.
 
 ------------------------------------------------------------------------------------
 
-# [Image Processing in Python](https://github.com/Ravjot03/Image-Processing)
+# [Image Processing with Python](https://github.com/Ravjot03/Image-Processing)
 
 ------------------------------------------------------------------------------------
 
-# [Computer Vision in Python]()
+# [Computer Vision with Python](https://github.com/Ravjot03/Computer-Vision-with-Python)
 
 ------------------------------------------------------------------------------------
 
-# [Web Scraping in Python]()
+# [Web Scraping with Python](https://github.com/Ravjot03/Selenium-with-Python)
 
 ------------------------------------------------------------------------------------
