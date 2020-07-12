@@ -1,4 +1,10 @@
 # Data-Science-Portfolio
+
+#### Author: RAVJOT SINGH
+
+#### E-Mail: ravjot313@gmail.com
+
+
 This repository contains machine learning and data visualizations repositories.
 
 ------------------------------------------------------------------------------------
