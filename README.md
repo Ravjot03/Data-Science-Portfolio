@@ -13,7 +13,7 @@ This repository contains machine learning and data visualizations repositories.
 
 ------------------------------------------------------------------------------------
 
-# [Applied Finance with Python]() 
+# [Applied Finance with Python](https://github.com/Ravjot03/Applied-Finance-with-Python) 
 
 ------------------------------------------------------------------------------------
 
