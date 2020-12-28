@@ -13,6 +13,10 @@ This repository contains machine learning and data visualizations repositories.
 
 ------------------------------------------------------------------------------------
 
+# [Applied Finance with Python]() 
+
+------------------------------------------------------------------------------------
+
 # [Data Analysis with Python](https://github.com/Ravjot03/Merging-DataFrames-with-pandas)
 
 ------------------------------------------------------------------------------------
