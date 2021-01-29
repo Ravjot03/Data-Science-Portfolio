@@ -17,7 +17,7 @@ This repository contains machine learning and data visualizations repositories.
 
 ------------------------------------------------------------------------------------
 
-# [Data Analysis with Python](https://github.com/Ravjot03/Merging-DataFrames-with-pandas)
+# [Data Analysis with Python](https://github.com/Ravjot03/Data-Analysis-with-Python)
 
 ------------------------------------------------------------------------------------
 
