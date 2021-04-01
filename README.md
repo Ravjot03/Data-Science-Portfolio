@@ -17,6 +17,10 @@ This repository contains machine learning and data visualizations repositories.
 
 ------------------------------------------------------------------------------------
 
+# [Time Series with Python](https://github.com/Ravjot03/Time-Series-with-Python)
+
+---
+
 # [Data Analysis with Python](https://github.com/Ravjot03/Data-Analysis-with-Python)
 
 ------------------------------------------------------------------------------------
