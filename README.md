@@ -13,6 +13,10 @@ This repository contains data science and machine learning repositories.
 
 ---
 
+# [Deep Learning with Python](https://github.com/Ravjot03/Deep-Learning-with-Python)
+
+---
+
 # [Applied Finance with Python](https://github.com/Ravjot03/Applied-Finance-with-Python) 
 
 ---
