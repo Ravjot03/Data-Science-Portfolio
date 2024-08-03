@@ -73,9 +73,15 @@ This repository is a comprehensive collection of my work and explorations in the
 ---
 
 # [Computer Vision with Python](https://github.com/Ravjot03/Computer-Vision-with-Python)
+**Concepts:** Comprehensive guides to computer vision techniques such as object detection, image classification, and image generation.
+
+**Projects:** Real-world applications in areas like facial recognition.
 
 ---
 
 # [Web Scraping with Python](https://github.com/Ravjot03/Selenium-with-Python)
+**Concepts:** In-depth exploration of web scraping techniques using libraries like BeautifulSoup and Selenium.
+
+**Projects:** Practical projects on extracting data from websites.
 
 ---
