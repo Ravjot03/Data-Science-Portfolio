@@ -42,22 +42,33 @@ This repository is a comprehensive collection of my work and explorations in the
 ---
 
 # [Applied Finance with Python](https://github.com/Ravjot03/Applied-Finance-with-Python) 
+**Concepts:** Detailed coverage of financial concepts such as portfolio optimization, risk management, and quantitative analysis.
 
 ---
 
 # [Time Series with Python](https://github.com/Ravjot03/Time-Series-with-Python)
+**Concepts:** In-depth exploration of time series analysis with python.
 
 ---
 
 # [Data Analysis with Python](https://github.com/Ravjot03/Data-Analysis-with-Python)
+**Concepts:** In-depth coverage of data cleaning, transformation, and analysis techniques using Python libraries like Pandas and NumPy.
+
+**Projects:** Practical projects on exploratory data analysis (EDA), feature engineering, and statistical analysis.
 
 ---
 
 # [Data Visualization with Python](https://github.com/Ravjot03/Data-Visualization-with-Python)
+**Concepts:** Comprehensive guides to data visualization techniques using tools like Matplotlib, Seaborn, Plotly, and Tableau.
+
+**Projects:** Projects demonstrating the visualization of complex datasets, creating interactive dashboards, and storytelling with data.
 
 ---
 
 # [Image Processing with Python](https://github.com/Ravjot03/Image-Processing)
+**Concepts:** Detailed explanations of image processing techniques including filtering, edge detection, and morphological operations.
+
+**Projects:** Projects demonstrating image enhancement, restoration, and segmentation using libraries like OpenCV.
 
 ---
 
