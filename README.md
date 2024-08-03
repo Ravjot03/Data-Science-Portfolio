@@ -2,7 +2,13 @@
 
 #### Author: RAVJOT SINGH
 
-#### E-Mail: ravjot313@gmail.com
+I am Ravjot Singh, a data science enthusiast with a strong passion for ML, DL, NLP, and GenAI. Currently pursuing my **Master of Science in Data Analytics at San Jose State University**, I am eager to contribute to innovative projects and push the boundaries of what's possible with data science and AI.
+
+Feel free to explore the repositories, use the code, and get in touch if you have any questions or collaborations in mind. Happy coding!
+
+**E-Mail: ravjot313@gmail.com**
+
+## Welcome to My GitHub Repository!
 
 This repository is a comprehensive collection of my work and explorations in the fields of Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Generative AI (GenAI). Here, you will find a mix of conceptual explanations and practical projects that demonstrate the application of various algorithms and techniques.
 
