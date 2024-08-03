@@ -8,6 +8,9 @@ This repository is a comprehensive collection of my work and explorations in the
 
 ---
 # [Generative AI and LLM's](https://github.com/Ravjot03/Generative-AI-Projects)
+**Concepts:** Detailed overviews of generative models including GANs, VAEs, and transformer-based architectures like GPT and BERT.
+
+**Projects:** Exciting projects involving text generation, image synthesis, and prompt engineering. Includes my Flask-based text generator using Google Generative AI and the Google Gemini model.
 
 ---
 
