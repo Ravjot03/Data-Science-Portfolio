@@ -4,8 +4,7 @@
 
 #### E-Mail: ravjot313@gmail.com
 
-
-This repository contains data science and machine learning repositories.
+This repository is a comprehensive collection of my work and explorations in the fields of Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Generative AI (GenAI). Here, you will find a mix of conceptual explanations and practical projects that demonstrate the application of various algorithms and techniques.
 
 ---
 # [Generative AI and LLM's](https://github.com/Ravjot03/Generative-AI-Projects)
