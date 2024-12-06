@@ -2,7 +2,7 @@
 
 #### Author: RAVJOT SINGH
 
-I am Ravjot Singh, a data science enthusiast with a strong passion for ML, DL, NLP, and GenAI. Currently pursuing my **Master of Science in Data Analytics at San Jose State University**, I am eager to contribute to innovative projects and push the boundaries of what's possible with data science and AI.
+I am Ravjot Singh, a data science enthusiast with a strong passion for ML, DL, NLP, and GenAI. Currently pursuing my **Master of Science in Data Science at San Jose State University**, I am eager to contribute to innovative projects and push the boundaries of what's possible with data science and AI.
 
 Feel free to explore the repositories, use the code, and get in touch if you have any questions or collaborations in mind. Happy coding!
 
