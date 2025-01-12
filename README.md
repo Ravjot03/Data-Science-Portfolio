@@ -22,7 +22,7 @@ This repository is a comprehensive collection of my work and explorations in the
 # [Agentic AI and Multimodal AI Agents](https://github.com/Ravjot03/Agentic-AI-Projects)
 **Concepts:** Covers the fundamentals of agentic AI, including autonomous agents, reinforcement learning agents, memory-augmented agents, and prompt-based agents. Includes detailed explanations of multimodal AI models like CLIP, BLIP, and Stable Diffusion.
 
-**Projects:** 
+**Projects:** Features various task-specific agents such as image captioning agents, multimodal search agents, and autonomous workflow agents. Includes creative AI agents for tasks like multimodal content generation and text-to-image synthesis.
 
 ---
 
