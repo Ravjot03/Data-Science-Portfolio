@@ -19,7 +19,7 @@ This repository is a comprehensive collection of my work and explorations in the
 **Projects:** Exciting projects involving text generation, image synthesis, and prompt engineering. Includes my Flask-based text generator using Google Generative AI and the Google Gemini model.
 
 ---
-# [Agentic AI and Multimodal AI Agents]()
+# [Agentic AI and Multimodal AI Agents](https://github.com/Ravjot03/Agentic-AI-Projects)
 **Concepts:** 
 
 **Projects:** 
